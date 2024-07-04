@@ -1,0 +1,140 @@
+[
+    {
+        "iphoneImage": "iphone_x",
+        "iphoneName": "iPhone X",
+        "releaseDate": "2017-11-03",
+        "variantColors": ["Space Gray", "Silver"]
+    },
+    {
+        "iphoneImage": "iphone_xr",
+        "iphoneName": "iPhone XR",
+        "releaseDate": "2018-10-26",
+        "variantColors": ["Black", "White", "Red", "Yellow", "Coral", "Blue"]
+    },
+    {
+        "iphoneImage": "iphone_xs",
+        "iphoneName": "iPhone XS",
+        "releaseDate": "2018-09-21",
+        "variantColors": ["Space Gray", "Silver", "Gold"]
+    },
+    {
+        "iphoneImage": "iphone_xs_max",
+        "iphoneName": "iPhone XS Max",
+        "releaseDate": "2018-09-21",
+        "variantColors": ["Space Gray", "Silver", "Gold"]
+    },
+    {
+        "iphoneImage": "iphone_11",
+        "iphoneName": "iPhone 11",
+        "releaseDate": "2019-09-20",
+        "variantColors": ["Purple", "Yellow", "Green", "Black", "White", "Red"]
+    },
+    {
+        "iphoneImage": "iphone_11_pro",
+        "iphoneName": "iPhone 11 Pro",
+        "releaseDate": "2019-09-20",
+        "variantColors": ["Space Gray", "Silver", "Gold", "Midnight Green"]
+    },
+    {
+        "iphoneImage": "iphone_11_pro_max",
+        "iphoneName": "iPhone 11 Pro Max",
+        "releaseDate": "2019-09-20",
+        "variantColors": ["Space Gray", "Silver", "Gold", "Midnight Green"]
+    },
+    {
+        "iphoneImage": "iphone_12",
+        "iphoneName": "iPhone 12",
+        "releaseDate": "2020-10-23",
+        "variantColors": ["Black", "White", "Red", "Green", "Blue", "Purple"]
+    },
+    {
+        "iphoneImage": "iphone_12_mini",
+        "iphoneName": "iPhone 12 Mini",
+        "releaseDate": "2020-11-13",
+        "variantColors": ["Black", "White", "Red", "Green", "Blue", "Purple"]
+    },
+    {
+        "iphoneImage": "iphone_12_pro",
+        "iphoneName": "iPhone 12 Pro",
+        "releaseDate": "2020-10-23",
+        "variantColors": ["Graphite", "Silver", "Gold", "Pacific Blue"]
+    },
+    {
+        "iphoneImage": "iphone_12_pro_max",
+        "iphoneName": "iPhone 12 Pro Max",
+        "releaseDate": "2020-11-13",
+        "variantColors": ["Graphite", "Silver", "Gold", "Pacific Blue"]
+    },
+    {
+        "iphoneImage": "iphone_13",
+        "iphoneName": "iPhone 13",
+        "releaseDate": "2021-09-24",
+        "variantColors": ["Pink", "Blue", "Midnight", "Starlight", "Red", "Green"]
+    },
+    {
+        "iphoneImage": "iphone_13_mini",
+        "iphoneName": "iPhone 13 Mini",
+        "releaseDate": "2021-09-24",
+        "variantColors": ["Pink", "Blue", "Midnight", "Starlight", "Red", "Green"]
+    },
+    {
+        "iphoneImage": "iphone_13_pro",
+        "iphoneName": "iPhone 13 Pro",
+        "releaseDate": "2021-09-24",
+        "variantColors": ["Graphite", "Gold", "Silver", "Sierra Blue", "Alpine Green"]
+    },
+    {
+        "iphoneImage": "iphone_13_pro_max",
+        "iphoneName": "iPhone 13 Pro Max",
+        "releaseDate": "2021-09-24",
+        "variantColors": ["Graphite", "Gold", "Silver", "Sierra Blue", "Alpine Green"]
+    },
+    {
+        "iphoneImage": "iphone_14",
+        "iphoneName": "iPhone 14",
+        "releaseDate": "2022-09-16",
+        "variantColors": ["Blue", "Purple", "Midnight", "Starlight", "Red", "Yellow"]
+    },
+    {
+        "iphoneImage": "iphone_14_plus",
+        "iphoneName": "iPhone 14 Plus",
+        "releaseDate": "2022-10-07",
+        "variantColors": ["Blue", "Purple", "Midnight", "Starlight", "Red", "Yellow"]
+    },
+    {
+        "iphoneImage": "iphone_14_pro",
+        "iphoneName": "iPhone 14 Pro",
+        "releaseDate": "2022-09-16",
+        "variantColors": ["Deep Purple", "Gold", "Silver", "Space Black"]
+    },
+    {
+        "iphoneImage": "iphone_14_pro_max",
+        "iphoneName": "iPhone 14 Pro Max",
+        "releaseDate": "2022-09-16",
+        "variantColors": ["Deep Purple", "Gold", "Silver", "Space Black"]
+    },
+    {
+        "iphoneImage": "iphone_15",
+        "iphoneName": "iPhone 15",
+        "releaseDate": "2023-09-22",
+        "variantColors": ["Blue", "Pink", "Yellow", "Green", "Black"]
+    },
+    {
+        "iphoneImage": "iphone_15_plus",
+        "iphoneName": "iPhone 15 Plus",
+        "releaseDate": "2023-09-22",
+        "variantColors": ["Blue", "Pink", "Yellow", "Green", "Black"]
+    },
+    {
+        "iphoneImage": "iphone_15_pro",
+        "iphoneName": "iPhone 15 Pro",
+        "releaseDate": "2023-09-22",
+        "variantColors": ["Titanium Black", "Titanium White", "Titanium Blue", "Titanium Natural"]
+    },
+    {
+        "iphoneImage": "iphone_15_pro_max",
+        "iphoneName": "iPhone 15 Pro Max",
+        "releaseDate": "2023-09-22",
+        "variantColors": ["Titanium Black", "Titanium White", "Titanium Blue", "Titanium Natural"]
+    }
+]

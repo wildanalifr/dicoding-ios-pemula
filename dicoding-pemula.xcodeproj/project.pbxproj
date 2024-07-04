@@ -11,6 +11,12 @@
 		14A298CB2C30335A00D61C35 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A298CA2C30335A00D61C35 /* ContentView.swift */; };
 		14A298CD2C30335B00D61C35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14A298CC2C30335B00D61C35 /* Assets.xcassets */; };
 		14A298D02C30335B00D61C35 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14A298CF2C30335B00D61C35 /* Preview Assets.xcassets */; };
+		14A298D92C3033CB00D61C35 /* IphoneModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A298D82C3033CB00D61C35 /* IphoneModel.swift */; };
+		14A298DB2C30365C00D61C35 /* IphoneListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A298DA2C30365C00D61C35 /* IphoneListView.swift */; };
+		14A298DD2C30373400D61C35 /* iphones.json in Resources */ = {isa = PBXBuildFile; fileRef = 14A298DC2C30373400D61C35 /* iphones.json */; };
+		14A298E12C30379A00D61C35 /* IphoneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A298E02C30379A00D61C35 /* IphoneViewModel.swift */; };
+		14A298E32C30550D00D61C35 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A298E22C30550D00D61C35 /* Profile.swift */; };
+		14A298E52C3058C400D61C35 /* IphoneDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A298E42C3058C400D61C35 /* IphoneDetail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +25,12 @@
 		14A298CA2C30335A00D61C35 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		14A298CC2C30335B00D61C35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		14A298CF2C30335B00D61C35 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		14A298D82C3033CB00D61C35 /* IphoneModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IphoneModel.swift; sourceTree = "<group>"; };
+		14A298DA2C30365C00D61C35 /* IphoneListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IphoneListView.swift; sourceTree = "<group>"; };
+		14A298DC2C30373400D61C35 /* iphones.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = iphones.json; sourceTree = "<group>"; };
+		14A298E02C30379A00D61C35 /* IphoneViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IphoneViewModel.swift; sourceTree = "<group>"; };
+		14A298E22C30550D00D61C35 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		14A298E42C3058C400D61C35 /* IphoneDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IphoneDetail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,10 +63,14 @@
 		14A298C72C30335A00D61C35 /* dicoding-pemula */ = {
 			isa = PBXGroup;
 			children = (
+				14A298DE2C30377F00D61C35 /* ViewModel */,
+				14A298D72C30338900D61C35 /* View */,
+				14A298D62C30338300D61C35 /* Model */,
 				14A298C82C30335A00D61C35 /* dicoding_pemulaApp.swift */,
 				14A298CA2C30335A00D61C35 /* ContentView.swift */,
 				14A298CC2C30335B00D61C35 /* Assets.xcassets */,
 				14A298CE2C30335B00D61C35 /* Preview Content */,
+				14A298DC2C30373400D61C35 /* iphones.json */,
 			);
 			path = "dicoding-pemula";
 			sourceTree = "<group>";
@@ -65,6 +81,32 @@
 				14A298CF2C30335B00D61C35 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		14A298D62C30338300D61C35 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				14A298D82C3033CB00D61C35 /* IphoneModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		14A298D72C30338900D61C35 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				14A298DA2C30365C00D61C35 /* IphoneListView.swift */,
+				14A298E22C30550D00D61C35 /* Profile.swift */,
+				14A298E42C3058C400D61C35 /* IphoneDetail.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		14A298DE2C30377F00D61C35 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				14A298E02C30379A00D61C35 /* IphoneViewModel.swift */,
+			);
+			path = ViewModel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +167,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14A298DD2C30373400D61C35 /* iphones.json in Resources */,
 				14A298D02C30335B00D61C35 /* Preview Assets.xcassets in Resources */,
 				14A298CD2C30335B00D61C35 /* Assets.xcassets in Resources */,
 			);
@@ -137,7 +180,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14A298D92C3033CB00D61C35 /* IphoneModel.swift in Sources */,
+				14A298E32C30550D00D61C35 /* Profile.swift in Sources */,
+				14A298DB2C30365C00D61C35 /* IphoneListView.swift in Sources */,
+				14A298E12C30379A00D61C35 /* IphoneViewModel.swift in Sources */,
 				14A298CB2C30335A00D61C35 /* ContentView.swift in Sources */,
+				14A298E52C3058C400D61C35 /* IphoneDetail.swift in Sources */,
 				14A298C92C30335A00D61C35 /* dicoding_pemulaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
